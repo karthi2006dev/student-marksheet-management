@@ -14,4 +14,4 @@ A Python-based command-line interface (CLI) application built to manage student 
 ## 🔧 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/karthi2006dev/student-marksheet-management)
+   git clone https://github.com/karthi2006dev/student-marksheet-management
